@@ -1,0 +1,17 @@
+﻿"N_pins"= 26
+"N_lobes"= "N_pins" - 1
+"R_pc"= 25
+"D_pin"= 3
+"R_pin"= "D_pin" / 2
+"ecc"= 0.72
+"t_disc"= 7
+"N_out"= 8
+"D_outc"=22
+"D_roller"= 5
+"D_outhole"= "D_roller" + 2 * "ecc"
+"D_cam_OD"= 21
+"D_cam_ID"= 10
+"clr_bore"= 1
+"D_bore"= 2 * "R_pc" + "clr_bore"
+"t_wall"= 7.5
+"D_housing"= "D_bore" + 2 * "t_wall"

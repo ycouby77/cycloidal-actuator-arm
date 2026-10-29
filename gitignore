@@ -1,0 +1,21 @@
+# SolidWorks temp and backup files
+~$*
+*.bak
+
+# PlatformIO / VS Code
+.pio/
+.vscode/
+
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
