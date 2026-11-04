@@ -6,8 +6,8 @@ const int PIN_IN1 = D3;    // coil A (GRN/BLK) direction
 const int PIN_IN2 = D5;
 const int PIN_IN3 = D6;    // coil B (RED/BLU) direction
 const int PIN_IN4 = D9;
-const int PIN_ENA = D10;   // coil A on/off (PWM later)
-const int PIN_ENB = D11;   // coil B on/off (PWM later)
+const int PIN_ENA = D2;   // coil A on/off (PWM later)
+const int PIN_ENB = D42;   // coil B on/off (PWM later)
 
 // ---------- 2. Step tables ----------
 // Each row = one step. Columns = {IN1, IN2, IN3, IN4}.
