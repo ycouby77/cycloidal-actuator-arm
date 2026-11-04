@@ -1,0 +1,6 @@
+{
+  "name": "AS5047P",
+  "version": "0.1.0",
+  "description": "AS5047P SPI magnetic encoder driver with validated reads",
+  "frameworks": "arduino"
+}
